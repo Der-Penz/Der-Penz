@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Monity](https://monitychat.de)
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **react.js, node.js, express, mongoDB**
 
 - 💬 Ask me about **react, javascript, css, html**
 
