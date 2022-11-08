@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Monity](https://monitychat.de)
 
-- 🌱 I’m currently learning **react.js, node.js, express, mongoDB**
+- 🌱 I’m currently learning **react.js, node.js, express, typescript**
 
-- 💬 Ask me about **react, javascript, css, html**
+- 💬 Ask me about **react, css, html, node.js, express**
 
 - 👀 I’m interested in **Web Dev, Game Dev, Crypto**
 
