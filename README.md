@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mike</h1>
 <h3 align="center">A passionate frontend developer from Germany</h3>
 
-- 🔭 I’m currently working on [Monity](https://monitychat.de)
+- 🔭 I’m currently working on [Scrabble](https://github.com/Der-Penz/scrabble-backend/)
 
 - 🌱 I’m currently learning **react.js, node.js, express, typescript**
 
