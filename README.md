@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mike</h1>
 <h3 align="center">A passionate frontend developer from Germany</h3>
 
-- 🔭 I’m currently working on [3D-to-Gif]([https://github.com/Der-Penz/scrabble-backend/](https://github.com/StaticFX/3DModels-To-GIF))
+- 🔭 I’m currently working on [3D-to-Gif](https://github.com/StaticFX/3DModels-To-GIF)
 
 - 🌱 I’m currently learning **svelte, node.js, express, typescript**
 
