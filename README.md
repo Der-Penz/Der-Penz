@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mike</h1>
 <h3 align="center">A passionate frontend developer from Germany</h3>
 
-- 🔭 I’m currently working on [3D-to-Gif](https://github.com/StaticFX/3DModels-To-GIF)
+- 🔭 I’m currently working on [Chess-Engine](https://github.com/Der-Penz/chess-engine)
 
-- 🌱 I’m currently learning **svelte, node.js, express, typescript**
+- 🌱 I’m currently learning **rust**
 
-- 💬 Ask me about **react, css, html, node.js, express, ts, js**
+- 💬 Ask me about **react, css, html, node.js, express, ts, js, svelte**
 
 - 👀 I’m interested in **Web Dev, Game Dev, Crypto**
 
