@@ -21,12 +21,3 @@
       <a href="https://jupyter.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
       <a href="https://numpy.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 </p>
-
-<p align="center">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=der-penz&&show_icons=true&theme=radical&hide_border=true&langs_count=5"/>
-      </a>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img  align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=der-penz&show_icons=true&theme=radical&hide_border=true&langs_count=5&layout=compact"
-      </a>
-</p>
