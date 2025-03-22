@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mike</h1>
 <h3 align="center">A passionate developer from Germany</h3>
 
-- 🔭 I’m currently working on [Document Scanner](https://github.com/Der-Penz/DocumentScanner)
+- 🔭 I’m currently working on [Scored](https://github.com/Der-Penz/Scored)
 
 - 🌱 I’m currently learning **machine learning**
 
