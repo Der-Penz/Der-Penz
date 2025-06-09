@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **machine learning**
 
-- 💬 Ask me about **node.js, ts, svelte, python, machine-learning, computer-vision**
+- 💬 Ask me about **python, machine-learning, computer-vision**
 
 - 👀 I’m interested in **Web Dev, Game Dev, AI**
 
